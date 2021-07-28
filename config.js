@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Hey yo em bé yêu!',
     introDesc: `Chúc mừng sinh nhật công chúa tuổi 19 hay ăn mau lớn nhé`,
-    btnIntro: 'Tao biết rồi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Ngày sinh nhật của em hôm nay có vui không?',
+    btnIntro: 'Tao biết rồi!',
+    title: 'Ngày sinh nhật của em hôm nay có vui không?',
+    desc: 'From Leon with love 💕',
     btnYes: 'Có ạ, vui lắm ạ',
     btnNo: 'Đéo nhé đm thằng chó Thắng',
     question:'Nhân dịp sinh nhật ngày hôm nay, em có muốn được tặng món quà gì không?',
